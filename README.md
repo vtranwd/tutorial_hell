@@ -1,5 +1,6 @@
 #tutorial_hell
 
+---
 Persistent error occurring when running command in terminal
 ---
 $ node server.js
@@ -34,4 +35,3 @@ Cannot connect to the database! MongooseServerSelectionError: connect ECONNREFUS
     commonWireVersion: null
   }
 }
----
